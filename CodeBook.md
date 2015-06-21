@@ -7,7 +7,9 @@ This dataset is derived from the "Human Activity Recognition Using Smartphones D
 
 Feature Selection 
 -----------------
-Please refer to README and features.txt files in the original dataset to get more info about the feature selection for this dataset.
+Please refer to README and features.txt files in the original dataset to get more info about the feature selection for this dataset. Part of the original description is reported here ( please take a look at the original feature_info.txt provided by the researchers with the data ):
+
+*"The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz."*
 
 For each subject and activity the tidy data set contains, as variables, the mean and standard deviation for 33 original measures. These are the original measures:
 
