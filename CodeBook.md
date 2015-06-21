@@ -29,5 +29,5 @@ tBodyGyroMag
 tGravityAcc-X  tGravityAcc-Y tGravityAcc-Z  	
 tGravityAccMag  
 
-Note: originalfeatures are normalized and bounded within [-1,1].
+Note: original features are normalized and bounded within [-1,1].
 
